@@ -1,4 +1,4 @@
-# recycleviewdoc
+# [RecyclerView Doc](https://reone.github.io/recycleviewdoc/).
 RecycleView annotation document generated using "java -doc"
 
-click [RecyclerView Doc](https://reone.github.io/recycleviewdoc/ "RecyclerView Doc"). 
+*version：'androidx.recyclerview:recyclerview:1.1.0'*
